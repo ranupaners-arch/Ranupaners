@@ -21,10 +21,10 @@ Saya seorang pengajar bahasa Arab dan pendidik di bidang **Pendidikan Bahasa Ara
 
 ## 🚀 Proyek-Proyek Saya
 
-### 📖 Assakan & Al-Hayah Al-Yaumiyah
+### 📖 Al-Mutqon Arabic Learning
 Slide deck interaktif untuk pelajaran bahasa Arab berdasarkan Al-Arabiyyah Bayna Yadayk Book 1, mencakup tema **perumahan** dan **kehidupan sehari-hari**.
 
-### 🌐 Madrasah Maya
+### 🌐 almutqon.sites
 Aplikasi web single-file untuk pembelajaran bahasa Arab dan studi Islam. Dirancang untuk aksesibilitas maksimal dan pembelajaran yang fleksibel.
 
 ---
@@ -32,7 +32,7 @@ Aplikasi web single-file untuk pembelajaran bahasa Arab dan studi Islam. Diranca
 ## 💻 Keahlian & Tools
 
 **Bahasa Pemrograman:**
-- HTML5, CSS3, JavaScript
+- HTML5, PHP, JavaScript
 - Python
 - Markdown
 
@@ -72,9 +72,9 @@ Menciptakan ekosistem pembelajaran bahasa Arab yang:
 
 ## 📞 Hubungi Saya
 
-- 📧 Email: [email Anda]
-- 🔗 LinkedIn: [profil LinkedIn Anda]
-- 🌐 Website: [website Anda jika ada]
+- 📧 Email: [ranupaners@gmail.com]
+- 🔗 LinkedIn: -
+- 🌐 Website: -
 
 ---
 
