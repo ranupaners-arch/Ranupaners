@@ -27,6 +27,9 @@ Slide deck interaktif untuk pelajaran bahasa Arab berdasarkan Al-Arabiyyah Bayna
 ### 🌐 almutqon.sites
 Aplikasi web single-file untuk pembelajaran bahasa Arab dan studi Islam. Dirancang untuk aksesibilitas maksimal dan pembelajaran yang fleksibel.
 
+### 🌐 asyifa.sites
+Mengembangkan website layanan Rumah Terapi Asy-Syifa Surakarta dengan fitur informasi terapi, daftar harga, jadwal bekam, dan reservasi pelanggan.
+
 ---
 
 ## 💻 Keahlian & Tools
@@ -78,7 +81,7 @@ Menciptakan ekosistem pembelajaran bahasa Arab yang:
 
 ---
 
-> *"التعليم هو أساس تقدم الشعوب"* (Pendidikan adalah fondasi kemajuan suatu bangsa)
+> *"التعليم هو أساس تقدم الأمة"* (Pendidikan adalah fondasi kemajuan suatu bangsa)
 
 **Wassalamu'alaikum wa rahmatullahi wa barakatuh** 🤝
 
